@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+/* Submitted and coded by Jagadeesh Kumar with initial as S, you may send mail to my email address which is equal to jagadeesh_2k17@proton.me and you may contribute some money to my Indian Unified Payment Interface (UPI) which is equal to jagadeesh-kumar@airtel . */
+body {
+    background-color: #296ca8;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    padding: 100px 0;
+}
+
+.advertisement {
+    text-align: center;
+    font-size: xx-small;
+    color: white;
+    font-family: "Poppins", sans-serif;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
